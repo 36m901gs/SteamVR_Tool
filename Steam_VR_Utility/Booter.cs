@@ -9,13 +9,7 @@ namespace Steam_VR_Utility
     class Booter
     {
 
-        /* https://stackoverflow.com/questions/38147552/c-sharp-application-to-launch-a-steam-game
-         * Steam games are launched by steam:// uri scheme which maps to steam.exe executable. 
-         * So you pretty much need to start steam.exe process passing uri
-         * like steam://rungameid/game_id where game_id is numerical id of that game.
-         */
-
-
+        
         public void LaunchSteam(string imagename)
         {
             string argument = "steam://rungameid/881100";
