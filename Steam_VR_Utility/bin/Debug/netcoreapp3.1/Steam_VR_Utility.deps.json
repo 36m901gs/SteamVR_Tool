@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Steam_VR_Utility/1.0.0": {
+        "runtime": {
+          "Steam_VR_Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Steam_VR_Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

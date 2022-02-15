@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HI+85atCdUxb4eM8X1i1MnI74jH6x1zRGSTVeIlUrwnRD2qd6E7zZm0an8+53cgSDCTedUNt5INr5rCic10nvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nigel Isom\\source\\repos\\Steam_VR_Utility\\Steam_VR_Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nigel Isom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

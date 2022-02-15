@@ -1,0 +1,13 @@
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\bin\Debug\netcoreapp3.1\Steam_VR_Utility.exe
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\bin\Debug\netcoreapp3.1\Steam_VR_Utility.deps.json
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\bin\Debug\netcoreapp3.1\Steam_VR_Utility.runtimeconfig.json
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\bin\Debug\netcoreapp3.1\Steam_VR_Utility.runtimeconfig.dev.json
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\bin\Debug\netcoreapp3.1\Steam_VR_Utility.dll
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\bin\Debug\netcoreapp3.1\Steam_VR_Utility.pdb
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.csproj.AssemblyReference.cache
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.AssemblyInfoInputs.cache
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.AssemblyInfo.cs
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.csproj.CoreCompileInputs.cache
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.dll
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.pdb
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.genruntimeconfig.cache
