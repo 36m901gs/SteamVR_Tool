@@ -11,3 +11,5 @@ C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_
 C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.dll
 C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.pdb
 C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.genruntimeconfig.cache
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Nigel Isom\source\repos\Steam_VR_Utility\obj\Debug\netcoreapp3.1\Steam_VR_Utility.csproj.CopyComplete
