@@ -9,11 +9,22 @@ namespace Steam_VR_Utility
     {
         static void Main(string[] args)
         {
+<<<<<<< Updated upstream
             bool showMenu = true;
             while (showMenu)
             {
                 showMenu = MainMenu();
             }
+=======
+            bool tomato = true;
+            Menus steamvr = new Menus();
+            while (tomato!=false) {
+                BruteForce();
+                
+            }
+            
+            
+>>>>>>> Stashed changes
 
             /* we'll add this back in later 
              Booter testrun = new Booter();
@@ -21,6 +32,7 @@ namespace Steam_VR_Utility
              Console.WriteLine("Cross your fingers!"); */
         }
 
+<<<<<<< Updated upstream
         private static bool MainMenu()
         {
 
@@ -143,6 +155,18 @@ namespace Steam_VR_Utility
         }
 
 
+=======
+        static void BruteForce()
+        {
+            bool tomato = true;
+            Menus steamvr = new Menus();
+            while (tomato != false)
+            {
+                steamvr.CreditMenu();
+                tomato = true;
+            }
+        }
+>>>>>>> Stashed changes
 
 
 

@@ -16,7 +16,14 @@ namespace Steam_VR_Utility
             await Task.Delay(1000*delaytime);
             System.Diagnostics.Process.Start("pssuspend.exe", imagename);
             Console.Clear();
-            
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.Clear();
+
 
 
             return 1;
@@ -27,6 +34,13 @@ namespace Steam_VR_Utility
             Console.Clear();
             string arguments = "-r " + imagename;
             System.Diagnostics.Process.Start("pssuspend.exe", arguments);
+            Console.Clear();
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
             Console.Clear();
 
 
@@ -41,6 +55,18 @@ namespace Steam_VR_Utility
             Console.WriteLine("Game ended");
 
 
+        }
+
+        public void BigClear()
+        {
+            Console.Clear();
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.Clear();
         }
 
 
