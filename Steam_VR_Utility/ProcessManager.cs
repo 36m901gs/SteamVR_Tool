@@ -13,10 +13,17 @@ namespace Steam_VR_Utility
         public async Task<int> SuspendProcess(string imagename, int delaytime)
         {
             
-            await Task.Delay(1000*delaytime);
-            System.Diagnostics.Process.Start("pssuspend.exe", imagename);
+            await Task.Delay(delaytime);
+            System.Diagnostics.Process.Start("pssuspend.exe", "\""+imagename+ "\"");
             Console.Clear();
-            
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.Clear();
+
 
 
             return 1;
@@ -25,8 +32,15 @@ namespace Steam_VR_Utility
         public async Task<int> ResumeProcess(string imagename )
         {
             Console.Clear();
-            string arguments = "-r " + imagename;
+            string arguments = "-r " + "\"" + imagename + "\"";
             System.Diagnostics.Process.Start("pssuspend.exe", arguments);
+            Console.Clear();
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
             Console.Clear();
 
 
@@ -36,11 +50,31 @@ namespace Steam_VR_Utility
         public void KillProcess(string imagename)
         {
             Console.Clear();
-            System.Diagnostics.Process.Start("pskill.exe", imagename);
+            System.Diagnostics.Process.Start("pskill.exe", "\"" + imagename + "\"");
+            Console.Clear();
+            Console.Clear();
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
             Console.Clear();
             Console.WriteLine("Game ended");
 
 
+        }
+
+        public void BigClear()
+        {
+            Console.Clear();
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.WriteLine("\r\n================================================");
+            Console.Clear();
         }
 
 
