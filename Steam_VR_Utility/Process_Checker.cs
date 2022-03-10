@@ -15,7 +15,7 @@ namespace Steam_VR_Utility
     {
         public List<string> ImageNames_list()
         {
-            string path = "C:\\Imagenamecsv2.txt";
+            string path = "C:\\Imagenamecsv.txt";
 
             string[] image_list = System.IO.File.ReadAllLines(path);
             List<string> ig_list = new List<string>();
