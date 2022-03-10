@@ -167,6 +167,7 @@ namespace Steam_VR_Utility
                 testrun.SuspendProcess(image, (value*credits)).Wait();
                 testrun.BigClear();
                 testrun.BigClear();
+                BringConsoleToFront();
                 Console.WriteLine("\r\nSession ended. Continue?");
                 //var continue_decision = Continue_Process();
                 if (Continue_Process()) 
